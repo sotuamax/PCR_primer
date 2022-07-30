@@ -6,7 +6,7 @@ There are a lot of genetic variations in different populations. By taking advant
 
 The question is: how can we use available information and resource to know the genotype at a given loci for these RILs? One simple (and quick) and also easy-to-do method is PCR the target loci. 
 
-Input files you have: 
+Input files: 
 1. Reference genome (in fasta format)
 2. VCF file (a standard file format for the storage of variants information)
 3. BED file (a standard file format for gene location information) 
